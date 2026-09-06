@@ -1,5 +1,5 @@
 def main():
-	name = "World"
+	name = "Vs code"
 	first_number = 6
 	second_number = 4
 
