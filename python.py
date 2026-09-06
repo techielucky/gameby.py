@@ -1,0 +1,11 @@
+def main():
+	name = "World"
+	first_number = 5
+	second_number = 3
+
+	print(f"Hello, {name}!")
+	print(f"{first_number} + {second_number} = {first_number + second_number}")
+
+
+if __name__ == "__main__":
+	main()
