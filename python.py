@@ -5,6 +5,7 @@ def main():
 
 	print(f"Hello, {name}!")
 	print(f"{first_number} + {second_number} = {first_number + second_number}")
+		print(".......................")
 
 print("here we are printing {first_number} + {second_number} = {first_number + second_number} above ")
 
