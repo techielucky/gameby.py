@@ -1,7 +1,7 @@
 def main():
 	name = "World"
 	first_number = 6
-	second_number = 3
+	second_number = 4
 
 	print(f"Hello, {name}!")
 	print(f"{first_number} + {second_number} = {first_number + second_number}")
