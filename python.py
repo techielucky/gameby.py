@@ -6,6 +6,7 @@ def main():
 	print(f"Hello, {name}!")
 	print(f"{first_number} + {second_number} = {first_number + second_number}")
 
+print("")
 
 if __name__ == "__main__":
 	main()
