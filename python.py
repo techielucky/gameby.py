@@ -7,6 +7,7 @@ def main():
 	print(f"{first_number} + {second_number} = {first_number + second_number}")
 
 print("here we are printing {first_number} + {second_number} = {first_number + second_number} above ")
+print("Before building gmae we are doing planing")
 
 if __name__ == "__main__":
 	main()
