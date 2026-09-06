@@ -1,6 +1,6 @@
 def main():
 	name = "World"
-	first_number = 5
+	first_number = 6
 	second_number = 3
 
 	print(f"Hello, {name}!")
